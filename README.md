@@ -15,6 +15,6 @@ I am a fullstack developer passionate about creating creative and functional app
 
 If you're interested in collaborating on a project or just want to say hello, feel free to reach out to me.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lfvasquez.ceo) [![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:velfcodes@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-vasquez-269911273/)[![Sitio Web](https://img.shields.io/badge/Website-%23000000?style=flat-square&logo=web&logoColor=white)](www.velfcodes.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:velfcodes@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-vasquez-269911273/)[![Sitio Web](https://img.shields.io/badge/Website-%23000000?style=flat-square&logo=web&logoColor=white)](www.velfcodes.com)
 
 I hope to have the opportunity to work with you on an interesting project!
