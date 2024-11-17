@@ -1,15 +1,16 @@
 # **About Me**
 
-I am a fullstack developer passionate about creating creative and functional applications. I love programming and solving interesting challenges. I am always open to learn and grow as a professional.
+I am a full-stack developer with extensive experience in creating innovative and highly functional applications. My passion for programming and solving complex challenges drives me to stay up to date with the latest technological trends. I am known for delivering optimal and high-quality solutions, based on my solid knowledge and skills.
+
 ## 🛠 Skills
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=blue)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=blue)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Excel + Macros](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![HTML+CSS](https://img.shields.io/badge/-HTML+%2B+CSS-FF5722?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Excel + Macros](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft%20excel&logoColor=white)
+
 
 ## **Contact**
 
