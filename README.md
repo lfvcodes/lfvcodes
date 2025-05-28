@@ -4,7 +4,7 @@ I am a full-stack developer with extensive experience in creating innovative and
 
 ## 🛠 Skills
 <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,jquery,java,php,discord,figma,github,webpack,express,vite,mongodb,npm,nodejs,nextjs,mysql,postgresql,ps,docker,cpp,windows,linux,materialui,react,tailwind,ts,vscode&perline=15" />
+     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,jquery,java,php,discord,figma,github,linkedin,express,vite,mongodb,npm,nodejs,webpack,mysql,postgresql,ps,docker,cpp,windows,linux,materialui,react,tailwind,ts,vscode&perline=15" />
    </a>
 
 ## **Contact**
