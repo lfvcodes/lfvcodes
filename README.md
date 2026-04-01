@@ -1,6 +1,6 @@
 # **About Me**
 
-I am a full-stack developer with extensive experience in creating innovative and highly functional applications. My passion for programming and solving complex challenges drives me to stay up to date with the latest technological trends. I am known for delivering optimal and high-quality solutions, based on my solid knowledge and skills.
+Full-stack developer passionate about creating functional and well-made applications. I am motivated to solve complex problems with clean and updated solutions. Practical approach, quality code and always evolving
 
 ## 🛠 Skills
 <a href="https://skillicons.dev">
