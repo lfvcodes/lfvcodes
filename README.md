@@ -1,6 +1,12 @@
 # **About Me**
 
-Full-stack developer passionate about creating functional and well-made applications. I am motivated to solve complex problems with clean and updated solutions. Practical approach, quality code and always evolving
+Full-Stack Developer with 5+ years of experience building web applications and migrating legacy systems to modern architectures. I enjoy creating clean, maintainable code and developing practical tools that solve real-world problems
+
+My focus is on delivering functional, high-quality solutions using technologies like PHP, JavaScript (React, Node.js), and SQL Server. I'm always exploring new technologies and improving my craft.
+
+🔭 I’m currently working on: Deepening my skills in Node.js, Express, and cloud deployment (Docker).
+🌱 I’m currently learning: Advanced React patterns and MongoDB.
+⚡ Fun fact: I'm a big fan of process automation and optimizing database performance.
 
 ## 🛠 Skills
 <a href="https://skillicons.dev">
