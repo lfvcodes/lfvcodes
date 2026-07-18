@@ -5,7 +5,9 @@ Full-Stack Developer with 5+ years of experience building web applications and m
 My focus is on delivering functional, high-quality solutions using technologies like PHP, JavaScript (React, Node.js), and SQL Server. I'm always exploring new technologies and improving my craft.
 
 🔭 I’m currently working on: Deepening my skills in Node.js, Express, and cloud deployment (Docker).
+
 🌱 I’m currently learning: Advanced React patterns and MongoDB.
+
 ⚡ Fun fact: I'm a big fan of process automation and optimizing database performance.
 
 ## 🛠 Skills
