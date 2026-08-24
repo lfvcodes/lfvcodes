@@ -4,7 +4,8 @@ Full-Stack Developer with 5+ years of experience building web applications and m
 
 My focus is on delivering functional, high-quality solutions using technologies like PHP, JavaScript (React, Node.js), and SQL Server. I'm always exploring new technologies and improving my craft.
 
-⚡ Fun fact: I'm a big fan of process automation and optimizing database performance.
+> currently
+learning → researching → building → breaking → understanding
 
 ## 🛠 Skills
 <a href="https://skillicons.dev">
