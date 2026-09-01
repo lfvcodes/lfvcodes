@@ -9,7 +9,7 @@ learning → researching → building → breaking → understanding
 
 ## 🛠 Skills
 <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,js,jquery,php,github,vite,nodejs,express,nextjs,mysql,ps,react,tailwind&perline=17" />
+     <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,tailwind,js,react,jquery,php,cpp,java,nodejs,express,nextjs,mysql,ps&perline=17" />
    </a>
 
 ## **Contact**
