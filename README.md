@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:058267,100:00F5FF&height=250&section=header&text=Luis%20Fernando%20Vasquez&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Developer&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02101B,50:083253,100:00CBE5&height=250&section=header&text=Luis%20Fernando%20Vasquez&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Developer&descAlignY=58&descSize=20" />
 
 # **About Me**
 
