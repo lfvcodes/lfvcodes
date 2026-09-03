@@ -16,4 +16,4 @@ learning → researching → building → breaking → understanding
 
 If you're interested in collaborating on a project or just want to say hello, feel free to reach out to me.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-fernando-vasquez-269911273/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lfvcodes/)
