@@ -1,6 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:058267,100:00F5FF&height=250&section=header&text=Luis%20Fernando%20Vasquez&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Developer&descAlignY=58&descSize=20" />
+
 # **About Me**
 
-Full-Stack Developer with 5+ years of experience building web applications and migrating legacy systems to modern architectures. I enjoy creating clean, maintainable code and developing practical tools that solve real-world problems
+Full-Stack Developer with 5+ years of experience building web and mobile applications.
+I enjoy creating clean, maintainable code and developing practical tools that solve real-world problems
 
 My focus is on delivering functional, high-quality solutions using technologies like PHP, JavaScript (React, Node.js), and SQL Server. I'm always exploring new technologies and improving my craft.
 
